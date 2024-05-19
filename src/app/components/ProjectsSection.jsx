@@ -11,7 +11,7 @@ const projectsData = [
     description: "Crafted a dynamic React portfolio website with Next.js, showcasing my skills, projects, and experiences in an engaging and efficient manner.",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/Deebh/-Portfolio",
     // previewUrl: "/",
   },
   {
